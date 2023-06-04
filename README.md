@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://twitter.com/iayansarkar">
-    <img src="https://img.shields.io/badge/Twitter-yelloe?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
