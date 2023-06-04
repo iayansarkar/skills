@@ -20,7 +20,7 @@
 <code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
 ## Framework:
-<code>WordPress</code> <code>React</code> <code></code>
+<code>WordPress</code> <code>React</code>
 
 ## Analytics:
 <code>Excel</code> <code>SQL</code> <code>Power BI</code> <code>Tableau</code>
