@@ -15,7 +15,7 @@
 
 ---
 
-<div align="center" font-weight="600" font-size="20px">About My Skill's: </div>
+<div align="center" font-weight="600" size="20px">About My Skill's: </div>
 
 ## Language:
 <code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
