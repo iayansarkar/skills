@@ -22,7 +22,7 @@
 </div>
 
 
-## Language:
+<span style="color: red;">Language</span>
 <code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
 ## Framework:
