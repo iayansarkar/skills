@@ -32,5 +32,6 @@
 <code>Excel</code> ♾ <code>SQL</code> ♾ <code>Power BI</code> ♾ <code>Tableau</code><br>
 
 
-
-<h1 style="font-size: 24px; text-decoration: underline;"> ⛓ Thank You ⛓ </h1>
+<div align="center">
+<h2 style="font-size: 24px; text-decoration: underline;"> Thank You </h2>
+</div>
