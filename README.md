@@ -19,7 +19,7 @@
 
 ## Language:
 
-<code><h3>Java</h3></code>
+<code><h3>Java</h3></code><code><h3>Python</h3></code>
 
 ## Framework:
 - WordPress
