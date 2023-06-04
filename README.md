@@ -15,7 +15,7 @@
 
 ---
 
-<span align="center" style="font-size: 40px; font-weight: 600px;">About My Skill's: </span>
+<span style="font-size: 40px; font-weight: 600px; text-align: center;">About My Skill's: </span>
 
 ## Language:
 <code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
