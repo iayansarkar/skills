@@ -18,7 +18,7 @@
 # About My Skill's:
 
 ## Language:
-Java - Python
+<code>Java</code> - Python
 
 ## Framework:
 - WordPress
