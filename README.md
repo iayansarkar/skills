@@ -17,9 +17,10 @@
 
 <div align="center">
 
-# <font size="5"><u>About My Skills</u></font>
+<h1 style="font-size: 24px; text-decoration: underline;">About My Skills</h1>
 
 </div>
+
 
 ## Language:
 <code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
