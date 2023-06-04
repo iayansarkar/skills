@@ -15,7 +15,8 @@
 
 ---
 
-# About My Skill's:
+<div align="center">About My Skill's: </div>
+
 ## Language:
 <code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
