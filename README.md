@@ -16,19 +16,14 @@
 ---
 
 # About My Skill's:
-
 ## Language:
-
-<code>Java</code> <code>Python</code>
+<code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
 ## Framework:
-- WordPress
-- React
+<code>WordPress</code> <code>React</code> <code></code>
 
 ## Analytics:
-- Excel
-- SQL
-- Power BI
-- Tableau
+<code>Excel</code> <code>SQL</code> <code>Power BI</code> <code>Tableau</code>
+
 
 
