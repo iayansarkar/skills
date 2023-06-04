@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<h1 style="font-size: 24px; text-decoration: underline;">About My Skills</h1>
+<h1 style="font-size: 24px; text-decoration: underline;"> ⛓ About My Skills ⛓ </h1>
 
 </div>
 
