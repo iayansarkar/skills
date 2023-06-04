@@ -15,7 +15,7 @@
 
 ---
 
-<p style="font-size: 40px; font-weight: 600px; text-align: center;">About My Skill's: </p>
+<span style="font-size: larger;">This text will have a larger font size.</span>
 
 ## Language:
 <code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
