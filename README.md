@@ -23,13 +23,13 @@
 
 ## Language
 
-<code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+<code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br>
 
 ## Framework:
-<code>WordPress</code> <code>React</code>
+<code>WordPress</code> <code>React</code><br>
 
 ## Analytics:
-<code>Excel</code> <code>SQL</code> <code>Power BI</code> <code>Tableau</code>
+<code>Excel</code> <code>SQL</code> <code>Power BI</code> <code>Tableau</code><br>
 
 
 
