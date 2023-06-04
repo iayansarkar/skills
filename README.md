@@ -17,4 +17,21 @@
 
 # About My Skill's:
 
+## Language:
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+
+## Framework:
+- WordPress
+- React
+
+## Analytics:
+- Excel
+- SQL
+- Power BI
+- Tableau
+
 
